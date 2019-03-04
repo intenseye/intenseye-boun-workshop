@@ -30,8 +30,9 @@ to convert your own models.
 
 ## Intenseye
 
-Intenseye is deep learning powered video analytics platform – [@intenseye](https://twitter.com/intenseye) – hello@intenseye.com
-_For more information [https://intenseye.com/](https://intenseye.com/)._
+Intenseye is deep learning powered video analytics platform
+[@intenseye](https://twitter.com/intenseye) – hello@intenseye.com
+For more information [https://intenseye.com/](https://intenseye.com/).
 
 ## Contributing
 
