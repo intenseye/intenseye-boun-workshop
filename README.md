@@ -1,12 +1,13 @@
 # Intenseye BOUN Tech Summit Workshop
 
+## DEMO:
+To run the demo please visit [https://intenseye.github.io/intenseye-boun-workshop/](https://intenseye.github.io/intenseye-boun-workshop/)
+
+## How to run
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 For more information about how to run it please visit the link.
 In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br>
+`npm start` to run the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
