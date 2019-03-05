@@ -1,6 +1,6 @@
 ![](logo.png)
 
-# Emotion and gender recognition
+# Emotion and gender recognition in browser
 > Intenseye Bogazici University Tech Summit Workshop
 
 This application is for demonstration of how to run deep learning models on the browser using javascript and Tensorflow.js
