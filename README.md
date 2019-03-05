@@ -17,6 +17,7 @@ For more information about how to run it please visit the link.
 In order to run the app in the development mode, you can run :
 
 ```sh
+npm install
 npm start
 ```
 
@@ -24,6 +25,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
 You will also see any lint errors in the console.
 Multiple pretrained models are included in the repository as url.
+
 In this repository we are using Keras models.
 If you wish to use your own model you can reference to [this link](https://js.tensorflow.org/tutorials/import-keras.html)
 to convert your own models.
